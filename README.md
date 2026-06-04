@@ -35,11 +35,11 @@ Each layer is crafted to reduce complexity, improve consistency, and make scalin
 
 ### Roadmap
 
-[x] Figma Community release
-[ ] Token directory (.JSON) 
-[ ] Figma & Github Sync 
-[ ] npm package (npm install @desnify/foundations)
-[ ] Cross-platform support - Web, Android, and iOS
+- [x] Figma Community release
+- [ ] Token directory (.JSON) 
+- [ ] Figma & Github Sync 
+- [ ] npm package (npm install @desnify/foundations)
+- [ ] Cross-platform support - Web, Android, and iOS
 
 ---
 
