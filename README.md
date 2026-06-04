@@ -3,13 +3,16 @@ The invisible layer behind every great product — tokens, rules, and systems th
 
 ---
 
+
 ### What is Desnify Foundations?
 
 Desnify Foundations is the core design language powering Desnify Elements — a unified set of design tokens, variables, and styles built for scale. It serves as the single source of truth between design and code, ensuring every decision made in Figma translates consistently and accurately into production.
 
 Great products aren't just built with great components — they're built on solid foundations. Consistent spacing, a structured color system, a clear type scale, and a token architecture that scales with your product. That's exactly what Desnify Foundations gives you... whether you're a designer working in Figma or a developer building in code, everything you need to move fast and design with consistency is already here — free and open-source, for everyone.
 
+
 ---
+
 
 ### What’s inside?
 
@@ -31,7 +34,9 @@ A multi-layered token system and practical guidelines that bring structure, clar
 
 Each layer is crafted to reduce complexity, improve consistency, and make scaling across platforms effortless.
 
+
 ---
+
 
 ### Roadmap
 
@@ -41,7 +46,9 @@ Each layer is crafted to reduce complexity, improve consistency, and make scalin
 - [ ] npm package (npm install @desnify/foundations)
 - [ ] Cross-platform support - Web, Android, and iOS
 
+
 ---
+
 
 ### Getting started with Foundations?
 
@@ -50,7 +57,9 @@ Desnify Foundations is currently available on the Figma Community as of now. We'
 In the meantime, you can explore the Figma file and start building your design system today!
 [→ Get Desnify Foundations on Figma Community](https://www.figma.com/community/file/1560015998969232882)
 
+
 ---
+
 
 ### Related
 
