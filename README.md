@@ -28,7 +28,7 @@ A multi-layered token system and practical guidelines that bring structure, clar
 
 🧭 Layout Grids — Flexible grids and breakpoints that help maintain visual order across screens, ensuring alignment, rhythm, and structure for pages, cards, and components.
 
-🧩 Icons & Assets — 1,500+ icons from Iconoir.com along with a well-curated library of design assets that empowers you to build faster without searching elsewhere.
+🧩 Icons & Assets — 1,500+ icons from [Iconoir.com](https://iconoir.com/) along with a well-curated library of design assets that empowers you to build faster without searching elsewhere.
 
 ⚡ Interaction & Motion — A unified interaction framework defining animation types, curves, and durations. Covers core patterns like hover, press, dialog, sheet, snackbar, and page transitions. Adds life to interactions without overwhelming the experience.
 
