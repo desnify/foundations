@@ -1,0 +1,74 @@
+{
+  "--ds-width-0": {
+    "$value": "{Sizes.size-0}",
+    "$type": "number"
+  },
+  "--ds-width-2": {
+    "$value": "{Sizes.size-2}",
+    "$type": "number"
+  },
+  "--ds-width-4": {
+    "$value": "{Sizes.size-4}",
+    "$type": "number"
+  },
+  "--ds-width-8": {
+    "$value": "{Sizes.size-8}",
+    "$type": "number"
+  },
+  "--ds-width-12": {
+    "$value": "{Sizes.size-12}",
+    "$type": "number"
+  },
+  "--ds-width-16": {
+    "$value": "{Sizes.size-16}",
+    "$type": "number"
+  },
+  "--ds-width-20": {
+    "$value": "{Sizes.size-20}",
+    "$type": "number"
+  },
+  "--ds-width-24": {
+    "$value": "{Sizes.size-24}",
+    "$type": "number"
+  },
+  "--ds-width-32": {
+    "$value": "{Sizes.size-32}",
+    "$type": "number"
+  },
+  "--ds-width-36": {
+    "$value": "{Sizes.size-36}",
+    "$type": "number"
+  },
+  "--ds-width-40": {
+    "$value": "{Sizes.size-40}",
+    "$type": "number"
+  },
+  "--ds-width-48": {
+    "$value": "{Sizes.size-48}",
+    "$type": "number"
+  },
+  "--ds-width-64": {
+    "$value": "{Sizes.size-64}",
+    "$type": "number"
+  },
+  "--ds-width-80": {
+    "$value": "{Sizes.size-80}",
+    "$type": "number"
+  },
+  "--ds-width-96": {
+    "$value": "{Sizes.size-96}",
+    "$type": "number"
+  },
+  "--ds-width-112": {
+    "$value": "{Sizes.size-112}",
+    "$type": "number"
+  },
+  "--ds-width-128": {
+    "$value": "{Sizes.size-128}",
+    "$type": "number"
+  },
+  "--ds-width-160": {
+    "$value": "{Sizes.size-160}",
+    "$type": "number"
+  }
+}
