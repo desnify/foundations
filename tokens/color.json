@@ -50,7 +50,7 @@
         "$value": "{Colors.neutral.neutral-950}",
         "$type": "color"
       },
-      "--ds-color-fg-quarternary": {
+      "--ds-color-fg-quaternary": {
         "$value": "{Colors.neutral.neutral-600}",
         "$type": "color"
       },
@@ -380,15 +380,15 @@
         "$value": "{Colors.purple.purple-800}",
         "$type": "color"
       },
-      "--ds-color-blugary-primary": {
+      "--ds-color-bluegary-primary": {
         "$value": "{Colors.blue gray.blue-gray-600}",
         "$type": "color"
       },
-      "--ds-color-blugary-secondary": {
+      "--ds-color-bluegary-secondary": {
         "$value": "{Colors.blue gray.blue-gray-100}",
         "$type": "color"
       },
-      "--ds-color-content-blugray": {
+      "--ds-color-content-bluegray": {
         "$value": "{Colors.blue gray.blue-gray-800}",
         "$type": "color"
       },
@@ -944,8 +944,8 @@
         "$value": "{Colors.orange.orange-700}",
         "$type": "color"
       },
-      "--ds-color-cooper-tertiary": {
-        "$value": "{Colors.cooper.copper-700}",
+      "--ds-color-copper-tertiary": {
+        "$value": "{Colors.copper.copper-700}",
         "$type": "color"
       },
       "--ds-color-green-tertiary": {
