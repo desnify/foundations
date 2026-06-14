@@ -840,6 +840,10 @@
       "$value": 0,
       "$type": "number"
     },
+    "space-2": {
+      "$value": 2,
+      "$type": "number"
+    },
     "space-4": {
       "$value": 4,
       "$type": "number"
@@ -866,6 +870,10 @@
     },
     "space-32": {
       "$value": 32,
+      "$type": "number"
+    },
+    "space-36": {
+      "$value": 36,
       "$type": "number"
     },
     "space-40": {
@@ -896,16 +904,8 @@
       "$value": 128,
       "$type": "number"
     },
-    "space-2": {
-      "$value": 2,
-      "$type": "number"
-    },
     "space-160": {
       "$value": 160,
-      "$type": "number"
-    },
-    "space-36": {
-      "$value": 36,
       "$type": "number"
     }
   },
@@ -1082,7 +1082,7 @@
         "$type": "number"
       },
       "letter-spacing-005": {
-        "$value": -0.05000000074505806,
+        "$value": -0.05,
         "$type": "number"
       },
       "letter-spacing-075": {
