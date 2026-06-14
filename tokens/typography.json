@@ -1,0 +1,466 @@
+{
+  "Display": {
+    "--ds-typography-display-xlarge": {
+      "$value": "display-xlarge",
+      "$type": "string"
+    },
+    "--ds-typography-display-xlarge-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-display-xlarge-font-size": {
+      "$value": "{Typography.Font Size.font-size-96}",
+      "$type": "number"
+    },
+    "--ds-typography-display-xlarge-font-weight": {
+      "$value": "{Typography.Weight.font-weight-700}",
+      "$type": "number"
+    },
+    "--ds-typography-display-xlarge-line-height": {
+      "$value": "{Typography.Line Height.line-height-112}",
+      "$type": "number"
+    },
+    "--ds-typography-display-xlarge-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-075}",
+      "$type": "number"
+    },
+    "--ds-typography-display-large": {
+      "$value": "display-large",
+      "$type": "string"
+    },
+    "--ds-typography-display-large-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-display-large-font-size": {
+      "$value": "{Typography.Font Size.font-size-64}",
+      "$type": "number"
+    },
+    "--ds-typography-display-large-font-weight": {
+      "$value": "{Typography.Weight.font-weight-700}",
+      "$type": "number"
+    },
+    "--ds-typography-display-medium-line-height": {
+      "$value": "{Typography.Line Height.line-height-60}",
+      "$type": "number"
+    },
+    "--ds-typography-display-medium-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-075}",
+      "$type": "number"
+    },
+    "--ds-typography-display-large-line-height": {
+      "$value": "{Typography.Line Height.line-height-72}",
+      "$type": "number"
+    },
+    "--ds-typography-display-large-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-075}",
+      "$type": "number"
+    },
+    "--ds-typography-display-medium": {
+      "$value": "display-medium",
+      "$type": "string"
+    },
+    "--ds-typography-display-medium-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-display-medium-font-size": {
+      "$value": "{Typography.Font Size.font-size-52}",
+      "$type": "number"
+    },
+    "--ds-typography-display-medium-font-weight": {
+      "$value": "{Typography.Weight.font-weight-700}",
+      "$type": "number"
+    },
+    "--ds-typography-display-small": {
+      "$value": "display-small",
+      "$type": "string"
+    },
+    "--ds-typography-display-small-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-display-small-font-size": {
+      "$value": "{Typography.Font Size.font-size-44}",
+      "$type": "number"
+    },
+    "--ds-typography-display-small-font-weight": {
+      "$value": "{Typography.Weight.font-weight-700}",
+      "$type": "number"
+    },
+    "--ds-typography-display-small-line-height": {
+      "$value": "{Typography.Line Height.line-height-52}",
+      "$type": "number"
+    },
+    "--ds-typography-display-small-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-075}",
+      "$type": "number"
+    }
+  },
+  "Heading": {
+    "--ds-typography-heading-xxlarge": {
+      "$value": "heading-xxlarge",
+      "$type": "string"
+    },
+    "--ds-typography-heading-xxlarge-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-heading-xxlarge-font-size": {
+      "$value": "{Typography.Font Size.font-size-40}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-xxlarge-font-weight": {
+      "$value": "{Typography.Weight.font-weight-700}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-xxlarge-line-height": {
+      "$value": "{Typography.Line Height.line-height-48}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-xxlarge-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-075}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-xlarge": {
+      "$value": "heading-xlarge",
+      "$type": "string"
+    },
+    "--ds-typography-heading-xlarge-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-heading-xlarge-font-size": {
+      "$value": "{Typography.Font Size.font-size-36}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-xlarge-font-weight": {
+      "$value": "{Typography.Weight.font-weight-700}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-xlarge-line-height": {
+      "$value": "{Typography.Line Height.line-height-44}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-xlarge-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-075}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-large": {
+      "$value": "heading-large",
+      "$type": "string"
+    },
+    "--ds-typography-heading-large-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-heading-large-font-size": {
+      "$value": "{Typography.Font Size.font-size-32}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-large-font-weight": {
+      "$value": "{Typography.Weight.font-weight-700}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-large-line-height": {
+      "$value": "{Typography.Line Height.line-height-40}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-large-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-075}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-medium": {
+      "$value": "heading-medium",
+      "$type": "string"
+    },
+    "--ds-typography-heading-medium-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-heading-medium-font-size": {
+      "$value": "{Typography.Font Size.font-size-28}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-medium-font-weight": {
+      "$value": "{Typography.Weight.font-weight-700}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-medium-line-height": {
+      "$value": "{Typography.Line Height.line-height-36}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-medium-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-075}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-small": {
+      "$value": "heading-small",
+      "$type": "string"
+    },
+    "--ds-typography-heading-small-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-heading-small-font-size": {
+      "$value": "{Typography.Font Size.font-size-24}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-small-font-weight": {
+      "$value": "{Typography.Weight.font-weight-700}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-small-line-height": {
+      "$value": "{Typography.Line Height.line-height-32}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-small-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-075}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-xsmall": {
+      "$value": "heading-xsmall",
+      "$type": "string"
+    },
+    "--ds-typography-heading-xsmall-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-heading-xsmall-font-size": {
+      "$value": "{Typography.Font Size.font-size-20}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-xsmall-font-weight": {
+      "$value": "{Typography.Weight.font-weight-700}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-xsmall-line-height": {
+      "$value": "{Typography.Line Height.line-height-28}",
+      "$type": "number"
+    },
+    "--ds-typography-heading-xsmall-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-075}",
+      "$type": "number"
+    }
+  },
+  "Label": {
+    "--ds-typography-label-large": {
+      "$value": "label-large",
+      "$type": "string"
+    },
+    "--ds-typography-label-large-font-size": {
+      "$value": "{Typography.Font Size.font-size-18}",
+      "$type": "number"
+    },
+    "--ds-typography-label-large-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-label-large-font-weight": {
+      "$value": "{Typography.Weight.font-weight-500}",
+      "$type": "number"
+    },
+    "--ds-typography-label-large-line-height": {
+      "$value": "{Typography.Line Height.line-height-24}",
+      "$type": "number"
+    },
+    "--ds-typography-label-large-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-005}",
+      "$type": "number"
+    },
+    "--ds-typography-label-medium": {
+      "$value": "label-medium",
+      "$type": "string"
+    },
+    "--ds-typography-label-medium-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-label-medium-font-size": {
+      "$value": "{Typography.Font Size.font-size-16}",
+      "$type": "number"
+    },
+    "--ds-typography-label-medium-font-weight": {
+      "$value": "{Typography.Weight.font-weight-500}",
+      "$type": "number"
+    },
+    "--ds-typography-label-medium-line-height": {
+      "$value": "{Typography.Line Height.line-height-24}",
+      "$type": "number"
+    },
+    "--ds-typography-label-medium-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-005}",
+      "$type": "number"
+    },
+    "--ds-typography-label-small": {
+      "$value": "label-small",
+      "$type": "string"
+    },
+    "--ds-typography-label-small-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-label-small-font-size": {
+      "$value": "{Typography.Font Size.font-size-14}",
+      "$type": "number"
+    },
+    "--ds-typography-label-small-font-weight": {
+      "$value": "{Typography.Weight.font-weight-500}",
+      "$type": "number"
+    },
+    "--ds-typography-label-small-line-height": {
+      "$value": "{Typography.Line Height.line-height-20}",
+      "$type": "number"
+    },
+    "--ds-typography-label-small-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-005}",
+      "$type": "number"
+    },
+    "--ds-typography-label-xsmall": {
+      "$value": "label-xsmall",
+      "$type": "string"
+    },
+    "--ds-typography-label-xsmall-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-label-xsmall-font-size": {
+      "$value": "{Typography.Font Size.font-size-12}",
+      "$type": "number"
+    },
+    "--ds-typography-label-xsmall-font-weight": {
+      "$value": "{Typography.Weight.font-weight-500}",
+      "$type": "number"
+    },
+    "--ds-typography-label-xsmall-line-height": {
+      "$value": "{Typography.Line Height.line-height-16}",
+      "$type": "number"
+    },
+    "--ds-typography-label-xsmall-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-005}",
+      "$type": "number"
+    },
+    "--ds-typography-label-micro": {
+      "$value": "label-micro",
+      "$type": "string"
+    },
+    "--ds-typography-label-micro-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-label-micro-font-size": {
+      "$value": "{Typography.Font Size.font-size-10}",
+      "$type": "number"
+    },
+    "--ds-typography-label-micro-font-weight": {
+      "$value": "{Typography.Weight.font-weight-500}",
+      "$type": "number"
+    },
+    "--ds-typography-label-micro-line-height": {
+      "$value": "{Typography.Line Height.line-height-16}",
+      "$type": "number"
+    },
+    "--ds-typography-label-micro-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-005}",
+      "$type": "number"
+    }
+  },
+  "Body": {
+    "--ds-typography-body-large": {
+      "$value": "body-large",
+      "$type": "string"
+    },
+    "--ds-typography-body-large-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-body-large-font-size": {
+      "$value": "{Typography.Font Size.font-size-18}",
+      "$type": "number"
+    },
+    "--ds-typography-body-large-font-weight": {
+      "$value": "{Typography.Weight.font-weight-400}",
+      "$type": "number"
+    },
+    "--ds-typography-body-large-line-height": {
+      "$value": "{Typography.Line Height.line-height-28}",
+      "$type": "number"
+    },
+    "--ds-typography-body-large-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-0}",
+      "$type": "number"
+    },
+    "--ds-typography-body-medium": {
+      "$value": "body-medium",
+      "$type": "string"
+    },
+    "--ds-typography-body-medium-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-body-medium-font-size": {
+      "$value": "{Typography.Font Size.font-size-16}",
+      "$type": "number"
+    },
+    "--ds-typography-body-medium-font-weight": {
+      "$value": "{Typography.Weight.font-weight-400}",
+      "$type": "number"
+    },
+    "--ds-typography-body-medium-line-height": {
+      "$value": "{Typography.Line Height.line-height-24}",
+      "$type": "number"
+    },
+    "--ds-typography-body-medium-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-0}",
+      "$type": "number"
+    },
+    "--ds-typography-body-small": {
+      "$value": "body-small",
+      "$type": "string"
+    },
+    "--ds-typography-body-small-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-body-small-font-size": {
+      "$value": "{Typography.Font Size.font-size-14}",
+      "$type": "number"
+    },
+    "--ds-typography-body-small-font-weight": {
+      "$value": "{Typography.Weight.font-weight-400}",
+      "$type": "number"
+    },
+    "--ds-typography-body-small-line-height": {
+      "$value": "{Typography.Line Height.line-height-20}",
+      "$type": "number"
+    },
+    "--ds-typography-body-small-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-0}",
+      "$type": "number"
+    },
+    "--ds-typography-body-xsmall": {
+      "$value": "body-xsmall",
+      "$type": "string"
+    },
+    "--ds-typography-body-xsmall-font-family": {
+      "$value": "{Typography.Family.font-family-base}",
+      "$type": "string"
+    },
+    "--ds-typography-body-xsmall-font-size": {
+      "$value": "{Typography.Font Size.font-size-12}",
+      "$type": "number"
+    },
+    "--ds-typography-body-xsmall-font-weight": {
+      "$value": "{Typography.Weight.font-weight-400}",
+      "$type": "number"
+    },
+    "--ds-typography-body-xsmall-line-height": {
+      "$value": "{Typography.Line Height.line-height-20}",
+      "$type": "number"
+    },
+    "--ds-typography-body-xsmall-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-0}",
+      "$type": "number"
+    }
+  }
+}
