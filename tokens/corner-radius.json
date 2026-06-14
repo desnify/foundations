@@ -1,0 +1,30 @@
+{
+  "--ds-corner-radius-0": {
+    "$value": "{Radius.radii-0}",
+    "$type": "number"
+  },
+  "--ds-corner-radius-4": {
+    "$value": "{Radius.radii-4}",
+    "$type": "number"
+  },
+  "--ds-corner-radius-8": {
+    "$value": "{Radius.radii-8}",
+    "$type": "number"
+  },
+  "--ds-corner-radius-12": {
+    "$value": "{Radius.radii-12}",
+    "$type": "number"
+  },
+  "--ds-corner-radius-16": {
+    "$value": "{Radius.radii-16}",
+    "$type": "number"
+  },
+  "--ds-corner-radius-32": {
+    "$value": "{Radius.radii-32}",
+    "$type": "number"
+  },
+  "--ds-corner-radius-9999": {
+    "$value": "{Radius.radii-9999}",
+    "$type": "number"
+  }
+}
