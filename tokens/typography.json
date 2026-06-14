@@ -40,14 +40,6 @@
       "$value": "{Typography.Weight.font-weight-700}",
       "$type": "number"
     },
-    "--ds-typography-display-medium-line-height": {
-      "$value": "{Typography.Line Height.line-height-60}",
-      "$type": "number"
-    },
-    "--ds-typography-display-medium-letter-spacing": {
-      "$value": "{Typography.Letter Spacing.letter-spacing-075}",
-      "$type": "number"
-    },
     "--ds-typography-display-large-line-height": {
       "$value": "{Typography.Line Height.line-height-72}",
       "$type": "number"
@@ -70,6 +62,14 @@
     },
     "--ds-typography-display-medium-font-weight": {
       "$value": "{Typography.Weight.font-weight-700}",
+      "$type": "number"
+        },
+    "--ds-typography-display-medium-line-height": {
+      "$value": "{Typography.Line Height.line-height-60}",
+      "$type": "number"
+    },
+    "--ds-typography-display-medium-letter-spacing": {
+      "$value": "{Typography.Letter Spacing.letter-spacing-075}",
       "$type": "number"
     },
     "--ds-typography-display-small": {
