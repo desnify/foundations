@@ -1,0 +1,22 @@
+{
+  "--ds-border-width-0": {
+    "$value": "{Border.border-0}",
+    "$type": "number"
+  },
+  "--ds-border-width-05": {
+    "$value": "{Border.border-05}",
+    "$type": "number"
+  },
+  "--ds-border-width-1": {
+    "$value": "{Border.border-1}",
+    "$type": "number"
+  },
+  "--ds-border-width-2": {
+    "$value": "{Border.border-2}",
+    "$type": "number"
+  },
+  "--ds-border-width-4": {
+    "$value": "{Border.border-4}",
+    "$type": "number"
+  }
+}
