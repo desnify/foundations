@@ -1,0 +1,74 @@
+{
+  "--ds-spacing-0": {
+    "$value": "{Spacing.space-0}",
+    "$type": "number"
+  },
+  "--ds-spacing-2": {
+    "$value": "{Spacing.space-2}",
+    "$type": "number"
+  },
+  "--ds-spacing-4": {
+    "$value": "{Spacing.space-4}",
+    "$type": "number"
+  },
+  "--ds-spacing-8": {
+    "$value": "{Spacing.space-8}",
+    "$type": "number"
+  },
+  "--ds-spacing-12": {
+    "$value": "{Spacing.space-12}",
+    "$type": "number"
+  },
+  "--ds-spacing-16": {
+    "$value": "{Spacing.space-16}",
+    "$type": "number"
+  },
+  "--ds-spacing-20": {
+    "$value": "{Spacing.space-20}",
+    "$type": "number"
+  },
+  "--ds-spacing-24": {
+    "$value": "{Spacing.space-24}",
+    "$type": "number"
+  },
+  "--ds-spacing-32": {
+    "$value": "{Spacing.space-32}",
+    "$type": "number"
+  },
+  "--ds-spacing-36": {
+    "$value": "{Spacing.space-36}",
+    "$type": "number"
+  },
+  "--ds-spacing-40": {
+    "$value": "{Spacing.space-40}",
+    "$type": "number"
+  },
+  "--ds-spacing-48": {
+    "$value": "{Spacing.space-48}",
+    "$type": "number"
+  },
+  "--ds-spacing-64": {
+    "$value": "{Spacing.space-64}",
+    "$type": "number"
+  },
+  "--ds-spacing-80": {
+    "$value": "{Spacing.space-80}",
+    "$type": "number"
+  },
+  "--ds-spacing-96": {
+    "$value": "{Spacing.space-96}",
+    "$type": "number"
+  },
+  "--ds-spacing-112": {
+    "$value": "{Spacing.space-112}",
+    "$type": "number"
+  },
+  "--ds-spacing-128": {
+    "$value": "{Spacing.space-128}",
+    "$type": "number"
+  },
+  "--ds-spacing-160": {
+    "$value": "{Spacing.space-160}",
+    "$type": "number"
+  }
+}
