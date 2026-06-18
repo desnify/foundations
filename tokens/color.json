@@ -380,11 +380,11 @@
         "$value": "{Colors.purple.purple-800}",
         "$type": "color"
       },
-      "--ds-color-bluegary-primary": {
+      "--ds-color-bluegray-primary": {
         "$value": "{Colors.blue gray.blue-gray-600}",
         "$type": "color"
       },
-      "--ds-color-bluegary-secondary": {
+      "--ds-color-bluegray-secondary": {
         "$value": "{Colors.blue gray.blue-gray-100}",
         "$type": "color"
       },
@@ -428,16 +428,16 @@
         "$value": "{Colors.green.green-800}",
         "$type": "color"
       },
-      "--ds-color-cooper-primary": {
-        "$value": "{Colors.cooper.copper-600}",
+      "--ds-color-copper-primary": {
+        "$value": "{Colors.copper.copper-600}",
         "$type": "color"
       },
-      "--ds-color-cooper-secondary": {
-        "$value": "{Colors.cooper.copper-100}",
+      "--ds-color-copper-secondary": {
+        "$value": "{Colors.copper.copper-100}",
         "$type": "color"
       },
-      "--ds-color-content-cooper": {
-        "$value": "{Colors.cooper.copper-800}",
+      "--ds-color-content-copper": {
+        "$value": "{Colors.copper.copper-800}",
         "$type": "color"
       },
       "--ds-color-orange-primary": {
@@ -456,8 +456,8 @@
         "$value": "{Colors.orange.orange-200}",
         "$type": "color"
       },
-      "--ds-color-cooper-tertiary": {
-        "$value": "{Colors.cooper.copper-200}",
+      "--ds-color-copper-tertiary": {
+        "$value": "{Colors.copper.copper-200}",
         "$type": "color"
       },
       "--ds-color-green-tertiary": {
@@ -538,7 +538,7 @@
         "$value": "{Colors.base.white}",
         "$type": "color"
       },
-      "--ds-color-fg-quarternary": {
+      "--ds-color-fg-quaternary": {
         "$value": "{Colors.neutral.neutral-200}",
         "$type": "color"
       },
@@ -868,15 +868,15 @@
         "$value": "{Colors.base.white}",
         "$type": "color"
       },
-      "--ds-color-blugary-primary": {
+      "--ds-color-bluegray-primary": {
         "$value": "{Colors.blue gray.blue-gray-500}",
         "$type": "color"
       },
-      "--ds-color-blugary-secondary": {
+      "--ds-color-bluegray-secondary": {
         "$value": "{Colors.blue gray.blue-gray-900}",
         "$type": "color"
       },
-      "--ds-color-content-blugray": {
+      "--ds-color-content-bluegray": {
         "$value": "{Colors.base.white}",
         "$type": "color"
       },
@@ -916,15 +916,15 @@
         "$value": "{Colors.base.white}",
         "$type": "color"
       },
-      "--ds-color-cooper-primary": {
-        "$value": "{Colors.cooper.copper-500}",
+      "--ds-color-copper-primary": {
+        "$value": "{Colors.copper.copper-500}",
         "$type": "color"
       },
-      "--ds-color-cooper-secondary": {
-        "$value": "{Colors.cooper.copper-900}",
+      "--ds-color-copper-secondary": {
+        "$value": "{Colors.copper.copper-900}",
         "$type": "color"
       },
-      "--ds-color-content-cooper": {
+      "--ds-color-content-copper": {
         "$value": "{Colors.base.white}",
         "$type": "color"
       },
