@@ -1,8 +1,31 @@
 {
+  "name": "@desnify/foundations",
+  "version": "1.0.0",
+  "description": "Desnify's open-source design foundations — tokens, rules, and systems that bridge design and code.",
+  "main": "dist/web/tokens.css",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "node style-dictionary.config.mjs"
   },
   "dependencies": {
     "style-dictionary": "^5.4.4"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desnify/foundations.git"
+  },
+  "homepage": "https://desnify.com",
+  "keywords": [
+    "design-tokens",
+    "design-system",
+    "figma",
+    "css-variables",
+    "style-dictionary"
+  ],
+  "publishConfig": {
+    "access": "public"
   }
 }
