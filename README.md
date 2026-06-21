@@ -37,14 +37,30 @@ Each layer is crafted to reduce complexity, improve consistency, and make scalin
 
 ---
 
+### Token architecture
 
-### Roadmap
+Desnify Foundations follows a two-tier token system:
 
-- [x] Figma Community release
-- [x] Token directory (.JSON) 
-- [x] Figma Design & Github Sync 
-- [x] Cross-platform support - Web, Android, and iOS
-- [x] npm package (npm install @desnify/foundations)
+**Primitive tokens**   →   Raw values (e.g. spacing-12, color-purple-500)
+**Semantic tokens**    →   Meaningful, usage-based aliases (e.g. --ds-spacing-12, --ds-color-fg-brand-primary)
+
+Primitives are the raw building blocks — colors, spacing values, font sizes — with no context attached. Semantic tokens reference those primitives and add meaning based on how they're actually used (`--ds-color-fg-brand-primary`, not `purple-600`), which is what you'll see and use day to day across Web, iOS, and Android.
+
+This structure means a single primitive change cascades through every semantic token built on top of it — keeping the entire system consistent with one source of truth.
+
+
+---
+
+### Platform support
+
+One source of truth, built out into ready-to-use formats for every platform:
+
+
+| Platform | Format | Status |
+|---|---|---|
+| Web | CSS custom properties | ✅ Shipped |
+| iOS | Swift | ✅ Shipped |
+| Android | XML / Jetpack Compose-ready | ✅ Shipped |
 
 
 ---
@@ -80,7 +96,7 @@ import DesignTokens
 
 **Android** — copy `tokens.xml` and `tokens-night.xml` from `node_modules/@desnify/foundations/dist/android/` into your project's `res/values/` and `res/values-night/` folders respectively. No import needed — Android automatically picks up resources placed in `res/`.
 
-All tokens follow a consistent naming convention across platforms — --ds- for CSS, ds_ for Android, and DS. for Swift — so once you learn one, you instantly understand the others.
+*Please note: All tokens follow a consistent naming convention across platforms — `--ds-` for CSS, `ds_` for Android, and `DS.` for Swift — so once you learn one, you instantly understand the others.*
 
 **Exploring the source**
 
@@ -93,9 +109,36 @@ All tokens follow a consistent naming convention across platforms — --ds- for 
 
 ---
 
+### Roadmap
+
+- [x] Figma Community release
+- [x] Token directory (.JSON) 
+- [x] Figma Design & Github Sync 
+- [x] Cross-platform support - Web, Android, and iOS
+- [x] npm package (npm install @desnify/foundations)
+- [ ] AI-native context (.claude / .cursor support)
+
+
+---
+
 
 ### Related
 
 [Desnify Elements](https://desnify.com/) — Everything you need to build and maintain your UI in one place, a rich library of customizable components built on top Desnify Foundations.
+
+
+---
+
+## License
+
+MIT © 2024–2026 [Desnify.com](https://desnify.com)
+
+Desnify Foundations is free and open-source. You're free to use, modify, and distribute it — even commercially. The only requirement is that you keep the copyright notice.
+
+Created and maintained by [Pir Ahmed](https://pirahmed.com).
+
+
+
+
 
 
