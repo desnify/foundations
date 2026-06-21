@@ -97,7 +97,7 @@ import DesignTokens
 
 **Android** — copy `tokens.xml` and `tokens-night.xml` from `node_modules/@desnify/foundations/dist/android/` into your project's `res/values/` and `res/values-night/` folders respectively. No import needed — Android automatically picks up resources placed in `res/`.
 
-*Please note: All tokens follow a consistent naming convention across platforms — `--ds-` for CSS, `ds_` for Android, and `DS.` for Swift — so once you learn one, you instantly understand the others.*
+*Please note: All tokens follow a consistent naming convention and namespace `ds` (standing for Desnify System) across platforms — `--ds-` for CSS, `ds_` for Android, and `DS.` for Swift — so once you learn one, you instantly understand the others.*
 
 **Exploring the source**
 
