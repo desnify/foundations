@@ -41,8 +41,9 @@ Each layer is crafted to reduce complexity, improve consistency, and make scalin
 
 Desnify Foundations follows a two-tier token system:
 
-**Primitive tokens**   →   Raw values (e.g. spacing-12, color-purple-500) 
-**Semantic tokens**    →   Meaningful, usage-based aliases (e.g. --ds-spacing-12, --ds-color-fg-brand-primary)
+**Primitive tokens**   →   Raw values (e.g. `spacing-12`, `color-purple-500`) 
+
+**Semantic tokens**    →   Meaningful, usage-based aliases (e.g. `--ds-spacing-12, `--ds-color-fg-brand-primary`)
 
 Primitives are the raw building blocks — colors, spacing values, font sizes — with no context attached. Semantic tokens reference those primitives and add meaning based on how they're actually used (`--ds-color-fg-brand-primary`, not `purple-600`), which is what you'll see and use day to day across Web, iOS, and Android.
 
