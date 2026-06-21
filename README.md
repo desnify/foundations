@@ -41,10 +41,10 @@ Each layer is crafted to reduce complexity, improve consistency, and make scalin
 ### Roadmap
 
 - [x] Figma Community release
-- [ ] Token directory (.JSON) 
-- [ ] Figma & Github Sync 
-- [ ] npm package (npm install @desnify/foundations)
-- [ ] Cross-platform support - Web, Android, and iOS
+- [x] Token directory (.JSON) 
+- [x] Figma Design & Github Sync 
+- [x] Cross-platform support - Web, Android, and iOS
+- [x] npm package (npm install @desnify/foundations)
 
 
 ---
@@ -52,10 +52,43 @@ Each layer is crafted to reduce complexity, improve consistency, and make scalin
 
 ### Getting started with Foundations?
 
-Desnify Foundations is currently available on the Figma Community as of now. We're actively working on the token directory and the npm package — bringing Foundations closer to your code and making it a true cross-platform design language. Stay tuned for updates as things land, and star this repo to get notified when new releases drop. ⭐
+Desnify Foundations is available both as a Figma Community file and as an installable npm package — pick whichever fits your workflow, or use both together to keep design and code in sync.
 
-In the meantime, you can explore the Figma file and start building your design system today!
+**For designers — Figma**
+Explore the full token system directly in Figma — colors, typography, spacing, border, and corner radius — and start building your design system today. The Figma file mirrors the exact same tokens shipped in the npm package, so anything you see in Figma maps 1:1 to what developers consume in code.
+
 [→ Get Desnify Foundations on Figma Community](https://www.figma.com/community/file/1560015998969232882)
+
+**For developers — npm**
+Install the package and bring Desnify's tokens straight into your code. A single source of truth, built out into ready-to-use formats for Web, iOS, and Android.
+
+```bash
+npm install @desnify/foundations
+```
+
+**Web** — import the CSS file into your project:
+
+```css
+@import '@desnify/foundations/dist/web/tokens.css';
+```
+
+**iOS** — drop `DesignTokens.swift` from `node_modules/@desnify/foundations/dist/ios/` into your Xcode project, then the `DS` struct is available anywhere in your app:
+
+```swift
+import DesignTokens
+```
+
+**Android** — copy `tokens.xml` and `tokens-night.xml` from `node_modules/@desnify/foundations/dist/android/` into your project's `res/values/` and `res/values-night/` folders respectively. No import needed — Android automatically picks up resources placed in `res/`.
+
+All tokens follow a consistent naming convention across platforms — --ds- for CSS, ds_ for Android, and DS. for Swift — so once you learn one, you instantly understand the others.
+
+**Exploring the source**
+
+- Raw token files (JSON) live in [`/tokens`](./tokens)
+- Platform-specific builds live in [`/dist`](./dist) — `dist/web`, `dist/ios`, `dist/android`
+- The build pipeline is powered by [Style Dictionary](https://styledictionary.com/), transforming one source of truth into every platform automatically
+
+⭐ If you find this useful, consider starring the repo — it helps more designers and developers discover Desnify, and lets you know the moment new releases drop.
 
 
 ---
