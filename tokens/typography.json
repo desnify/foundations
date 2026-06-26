@@ -63,7 +63,7 @@
     "--ds-typography-display-medium-font-weight": {
       "$value": "{Typography.Weight.font-weight-700}",
       "$type": "number"
-        },
+    },
     "--ds-typography-display-medium-line-height": {
       "$value": "{Typography.Line Height.line-height-60}",
       "$type": "number"
