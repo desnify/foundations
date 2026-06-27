@@ -136,7 +136,7 @@ MIT © 2024–2026 [Desnify.com](https://desnify.com)
 
 Desnify Foundations is free and open-source. You're free to use, modify, and distribute it — even commercially. The only requirement is that you keep the copyright notice.
 
-Created and maintained by [Pir Ahmed](https://pirahmed.com).
+Built and maintained by [Pir Ahmed](https://www.linkedin.com/in/pirahmed/).
 
 
 
